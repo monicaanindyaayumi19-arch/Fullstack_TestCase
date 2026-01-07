@@ -1,9 +1,9 @@
 Senior Fullstack Developer – Technical Test Case
-📌 Case Title
+##Case Title
 
 Document Management System (DMS) – Mini Fullstack Platform
 
-🎯 Objective
+##Objective
 
 Build a small fullstack application that allows users to:
 
@@ -19,7 +19,7 @@ Receive notifications
 
 This simulates a real enterprise system (API, database, auth, UI, and workflow).
 
-🧱 Tech Stack (example – can be flexible)
+##Tech Stack (example – can be flexible)
 
 Backend
 
@@ -39,7 +39,7 @@ React / Next.js / Vue
 
 Clean UI, form validation, API integration
 
-🗂 Core Features
+#Core Features
 1. Authentication
 
 Register
@@ -118,34 +118,34 @@ Replace/Delete with confirmation
 
 Admin approval page
 
-🧪 Mandatory Test Scenarios
+#Mandatory Test Scenarios
 Backend
 
-✅ JWT middleware
+1. JWT middleware
 
-✅ Role-based access
+2. Role-based access
 
-✅ Validation & error handling
+3. Validation & error handling
 
-✅ Pagination & filtering
+4. Pagination & filtering
 
-✅ Transaction-safe replace/delete
+5. Transaction-safe replace/delete
 
-✅ Clean architecture (service, repo, controller)
+6 Clean architecture (service, repo, controller)
 
 Frontend
 
-✅ Auth guard
+1. Auth guard
 
-✅ API error handling
+2. API error handling
 
-✅ Responsive layout
+3. Responsive layout
 
-✅ Reusable components
+4. Reusable components
 
-✅ Loading & empty states
+5 Loading & empty states
 
-🧠 System Design Questions (must be answered)
+##System Design Questions (must be answered)
 
 How to handle large file uploads?
 
